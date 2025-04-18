@@ -21,12 +21,7 @@ Example Output:
 - **📝 Notes:**: The dataset used in this notebook is the **Titanic dataset** from Kaggle (`train.csv`).
 
 
-## Concept
-[Visit (takehika0129.github.io)](https://takehika0129.github.io/takehika-github-pages/reviews/prototype10.html)
-
-
 ## Requirements
-- Python 3.x
 - `pandas`
 - `numpy`
 - `scipy`
